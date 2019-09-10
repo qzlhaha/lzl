@@ -1,0 +1,129 @@
+
+#div1{
+	width: 100%;
+}
+
+#div1>img{
+	width: 100%;
+	
+}
+
+*{
+	margin: 0px;
+}
+#div1_1{
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	margin-top: 3%;
+}
+#div1_1>img{
+	width: 20%;
+}
+
+#div3{
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+   
+}
+
+#div3>img{
+	width: 33%;
+}
+#div4{
+	width: 100%;
+	
+  
+}
+#div4>img{
+	width: 100%;
+}
+
+#div5{
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+   
+}
+#div5>img{
+	width: 18%;		
+}
+#div4>#div5{
+	margin-top: -58%;
+
+}
+#div6{
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+   
+}
+#div6>img{
+	width: 18%;
+}
+#div7{
+	width: 100%;
+}
+#div7>img{
+	width: 100%;
+}
+#div7_1{
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+}
+#div7_1>img{
+	width: 30%;
+}
+#div7>#div7_1{
+	margin-top: -46%;
+}
+#div8{
+	width: 100%;
+	margin-top: 5%;
+}
+#div8>img{
+	width: 100%;
+	
+}
+#div8_1{
+	width: 100%;
+}
+#div8_1>img{
+	width: 100%;
+}
+
+#div8_2>#div8_3{
+	
+	margin-top:2%;
+	margin-bottom: 5%;
+}
+#div9_1{
+	width: 100%;
+}
+#div9_1>img{
+	width: 100%;
+	
+}
+#div8_2{
+	background-color: ghostwhite;
+	width: 100%;
+}
+#div9_2{
+	background-color: whitesmoke;
+	width: 100%;
+}
+#div9_2>#div9_3{
+	margin-top:2%;
+	margin-bottom: 5%;
+}
+
+#div9{
+	width: 100%;
+	
+}
+#div9>img{
+	width: 100%;
+	
+}
